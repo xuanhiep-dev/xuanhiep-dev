@@ -1,7 +1,5 @@
 # Hi 👋 My name is Duong Xuan Hiep
 
-## I'm an AI Engineer
-
 AI Specialist with practical experience in building Visual Question Answering (VQA) systems, retrieval-augmented generation (RAG), and news recommendation for Vietnamese language tasks. I focus on training deep learning models for NLP and computer vision to solve real-world problems reliably.
 
 - 🌍 I'm based in Viet Nam
