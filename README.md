@@ -9,23 +9,22 @@ AI Specialist with practical experience in building Visual Question Answering (V
 - ⚡ I love building robust AI solutions for NLP and computer vision.
 - 📫 You can contact me via [duongxuanhiep356@gmail.com](mailto:duongxuanhiep356@gmail.com)
 
-### Skills
+---
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" title="Django"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
-</p>
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
 
-### Socials
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/a](https://www.facebook.com/xuan.hiep1212)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duongxuanhiep356@gmail.com) 
 
-<p align="left"> <a href="https://www.facebook.com/xuan.hiep1212" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> <a href="https://www.github.com/XuanHiepp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
+---
 
-### Badges
-<b>My GitHub Stats</b>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=XuanHiepp&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=XuanHiepp&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanHiepp&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="http://www.github.com/XuanHiepp"><img src="https://github-readme-stats.vercel.app/api?username=XuanHiepp&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="Duong Xuan Hiep's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/XuanHiepp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XuanHiepp&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/XuanHiepp/Vietnamese-Reliable-VQA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=XuanHiepp&repo=Vietnamese-Reliable-VQA&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div><div width="100%" align="center"><a href="https://github.com/XuanHiepp/AI-ReAct-Agent" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=XuanHiepp&repo=AI-ReAct-Agent&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=XuanHiepp&limit=5&theme=default&combine_all_yearly_contributions=true)
