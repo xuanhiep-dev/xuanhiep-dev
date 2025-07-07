@@ -18,7 +18,9 @@ AI Specialist with practical experience building Visual Question Answering (VQA)
 ---
 
 ## 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api?username=XuanHiepp&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=XuanHiepp&theme=default&hide_border=false&cache_seconds=1800)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanHiepp&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
 
 ---
 
