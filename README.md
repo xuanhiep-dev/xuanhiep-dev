@@ -1,6 +1,6 @@
 # Hi 👋 My name is Duong Xuan Hiep
 
-I build systems that tackle tasks like Question Answering (QA), Visual Question Answering (VQA), and Retrieval-Augmented Generation (RAG), with a particular focus on Vietnamese language use cases. In most of these projects, I work with large language models (LLMs), fine-tuning them, designing prompts, and adapting them for real-world applications.
+I build systems that tackle tasks like Question Answering (QA), Visual Question Answering (VQA), and Retrieval-Augmented Generation (RAG), with a particular focus on Vietnamese language use cases. In most of these projects, I work with large language models (LLMs), fine-tuning them, designing prompts and adapting them for real-world applications.
 
 - 🌍 I'm based in Viet Nam
 - 🎓 Studied at University of Information Technology, Ho Chi Minh City (UIT)
