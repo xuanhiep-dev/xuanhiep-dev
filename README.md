@@ -1,6 +1,6 @@
 # Hi 👋 My name is Duong Xuan Hiep
 
-AI Specialist with practical experience building Visual Question Answering (VQA) systems, Optical Character Recognition (OCR) pipelines, retrieval-augmented generation (RAG), and news recommendation for Vietnamese tasks. I train deep learning models for NLP and computer vision to solve real-world problems reliably.
+I work on building practical systems for Question Answering (QA), Visual Question Answering (VQA), and Retrieval-Augmented Generation (RAG), with a focus on Vietnamese language tasks. My experience includes fine-tuning large language models (LLMs), designing effective prompts, and applying them in real-world applications.
 
 - 🌍 I'm based in Viet Nam
 - 🎓 Studied at University of Information Technology, Ho Chi Minh City (UIT)
