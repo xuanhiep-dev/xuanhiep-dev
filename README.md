@@ -18,11 +18,11 @@ I build systems that tackle tasks like Question Answering (QA), Visual Question 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XuanHiepp&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=XuanHiepp&theme=default&hide_border=false&cache_seconds=1800)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanHiepp&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=xuanhiep-dev&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=xuanhiep-dev&theme=default&hide_border=false&cache_seconds=1800)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xuanhiep-dev&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=XuanHiepp&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=xuanhiep-dev&limit=5&theme=default&combine_all_yearly_contributions=true)
