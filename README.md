@@ -18,7 +18,9 @@ I build systems that tackle tasks like Question Answering (QA), Visual Question 
 ---
 
 ## 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api?username=xuanhiep-dev&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=xuanhiep-dev&theme=default&hide_border=false&cache_seconds=1800)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xuanhiep-dev&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
 
 ---
 
